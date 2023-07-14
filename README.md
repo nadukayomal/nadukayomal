@@ -1,4 +1,4 @@
-### <p align = "center"> <h1>Welcome 🙏</h1></p>
+### <h1> <p align = "center">Welcome 🙏 </p></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadukayomal&label=Profile%20views&color=0e75b6&style=flat" alt="nadukayomal" /> </p>
 
