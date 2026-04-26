@@ -17,13 +17,13 @@
 
 | Category | Tools & Technologies |
 |---|---|
-| 🧠 AI & Agentic | 🦜 LangChain · 🕸️ LangGraph · 🦙 LlamaIndex · 🚀 CrewAI |
-| 🔍 RAG & Models | 🔍 RAG · 🤗 Hugging Face |
-| 🤖 ML & Data Science | 🧮 NumPy · 🐼 Pandas · 🔥 TensorFlow · ⚡ PyTorch · ✨ Apache Spark |
-| ☁️ Cloud & DevOps | ☁️ AWS · 🐳 Docker · ☸️ Kubernetes · 🌬️ Apache Airflow · 📨 Apache Kafka |
-| 🌐 Web | ⚛️ React.js · 🚀 Node.js · 🌐 Express · 🅱️ Bootstrap · 🖥️ HTML · 🎨 CSS |
-| 🗄️ Databases | 🛢️ MySQL · 🗃️ SQLite · 🍃 MongoDB |
-| 💻 Languages | 🐍 Python · 💻 JavaScript · ☕ Java · 🗂️ C |
+| AI & Agentic | 🦜 LangChain · 🕸️ LangGraph · 🦙 LlamaIndex · 🚀 CrewAI |
+| RAG & Models | 🔍 RAG · 🤗 Hugging Face |
+| ML & Data Science | 🧮 NumPy · 🐼 Pandas · 🔥 TensorFlow · ⚡ PyTorch · ✨ Apache Spark |
+| Cloud & DevOps | ☁️ AWS · 🐳 Docker · ☸️ Kubernetes · 🌬️ Apache Airflow · 📨 Apache Kafka |
+| Web | ⚛️ React.js · 🚀 Node.js · 🌐 Express · 🅱️ Bootstrap · 🖥️ HTML · 🎨 CSS |
+| Databases | 🛢️ MySQL · 🗃️ SQLite · 🍃 MongoDB |
+| Languages | 🐍 Python · 💻 JavaScript · ☕ Java · 🗂️ C |
 
 
 
